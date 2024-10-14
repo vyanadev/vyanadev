@@ -13,9 +13,8 @@ Je suis un développeur passionné, spécialisé dans le développement de bots 
 - **Wave** : Un bot de gestion polyvalent pour Discord, simplifiant l'administration des serveurs et améliorant l'engagement des membres.
 
 ## 📫 Comment me joindre
-- Discord : [[Votre tag Discord ou lien d'invitation à votre serveur](https://discord.gg/ByUJ8h8MC5)]
+- Discord : [[henelio](https://discord.gg/ByUJ8h8MC5)]
 - Pseudonyme : [henelio]
-- LinkedIn : [Votre profil LinkedIn]
 
 ## 📊 Mes stats GitHub
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Henelio&show_icons=true&theme=radical)

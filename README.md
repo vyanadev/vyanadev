@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis hak0xX
+# 👋 Bonjour, je suis Vyana
 
 ## 🚀 À propos de moi
 Je suis un développeur passionné, spécialisé dans le développement de bots Discord et d'applications web. J'aime créer des solutions innovantes pour améliorer l'expérience des utilisateurs sur les serveurs Discord.
@@ -13,8 +13,8 @@ Je suis un développeur passionné, spécialisé dans le développement de bots 
 - **Wave** : Un bot de gestion polyvalent pour Discord, simplifiant l'administration des serveurs et améliorant l'engagement des membres.
 
 ## 📫 Comment me joindre
-- Discord : [[hak0xx](https://discord.gg/ByUJ8h8MC5)]
-- Pseudonyme : [hak0xx]
+- Discord : [[Vyana](https://discord.gg/ByUJ8h8MC5)]
+- Pseudonyme : [Vyana]
 
 ## 📊 Mes stats GitHub
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Henelio&show_icons=true&theme=radical)
@@ -24,4 +24,4 @@ Je suis un développeur passionné, spécialisé dans le développement de bots 
 - Lancer une version bêta de Wave avec de nouvelles fonctionnalités de gestion d'événements
 - Contribuer à des projets open source liés à Discord.js
 
-⭐️ From [hak0xx](https://github.com/henelio-dev)
+⭐️ From [Vyana](https://github.com/henelio-dev)
